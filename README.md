@@ -47,3 +47,18 @@ Identificar presença e calcular a distância.
 - Resistor
 - ESP32
 
+
+## 🌞 Atividade 3: Sensor de Umidade
+[![Assista ao vídeo](https://img.youtube.com/vi/oE7Y40P61bI/maxresdefault.jpg)](https://youtube.com/shorts/oE7Y40P61bI)
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/71c0e121-a5f1-4a3e-a963-e44979ea8d1e" />
+
+
+### 📌 Objetivo
+
+Identificar umidade no solo de uma planta e alertar quando for a hora de regar.
+
+### ⚙️ Componentes
+
+- Sensor de Umidade
+- Resistor
+- ESP32
