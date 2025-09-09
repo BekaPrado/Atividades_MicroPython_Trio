@@ -74,7 +74,7 @@ Identificar umidade no solo de uma planta e alertar quando for a hora de regar.
 
   ## 🌞 Atividade 4: Alpha Corps
 
-  <img width="700" height="500" alt="image" src="blob:https://web.whatsapp.com/694530f8-7a8f-46fc-aa9e-d788188c7bcb" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/0dd61b76-0a8c-4525-a152-3f49b21d6a35" />
 
 
 ### 📌 Objetivo
