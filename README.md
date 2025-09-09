@@ -1,4 +1,4 @@
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a8af62ca-8162-4c03-a123-de5206109fa7" /><img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b6b8326d-fd33-45a0-b02d-adbe735369ea" /># 🌱 Atividades com ESP32 - Sensores (LDR, Proximidade e Umidade)
+# 🌱 Atividades com ESP32 - Sensores (LDR, Proximidade e Umidade)
 
 Este repositório contém três projetos simples utilizando o **ESP32** e sensores usados em aplicações de automação e monitoramento: sensor de luz (LDR), sensor de proximidade (ultrassônico) e sensor de umidade do solo.
 
