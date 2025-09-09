@@ -4,6 +4,11 @@ Este repositório contém três projetos simples utilizando o **ESP32** e sensor
 
 ---
 
+## Pariticantes 👥
+- Rebeka Marcelino
+- Gustavo Miguel
+- Guilherme Felix
+  
 ## 🔧 Materiais
 
 - ESP32 
@@ -50,6 +55,8 @@ Identificar presença e calcular a distância.
 
 ## 🌞 Atividade 3: Sensor de Umidade
 [![Assista ao vídeo](https://img.youtube.com/vi/oE7Y40P61bI/maxresdefault.jpg)](https://youtube.com/shorts/oE7Y40P61bI)
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/6c2d28ce-d854-46c6-bb22-e85063c95ffd" />
+
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/71c0e121-a5f1-4a3e-a963-e44979ea8d1e" />
 
 
